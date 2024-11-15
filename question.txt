@@ -1,0 +1,22 @@
+1. leap year using nested loop
+2.calculator
+3.if number is positive, is it odd or even
+4. ticket price
+5.range 5 vs for loop range 5
+6.beak, continue(to print odd no), pass use
+7.nested loop
+8. sum of n natural numbe using while and for loop
+9. prime number upto 100
+10.use dictionary to count the frequency of elements in list
+11.Write a python function to remove a given word from a list and strip it at the same time
+Manage a to do list
+organizing student grades
+#Managing the inventory
+Collecting user feedback
+convert temp using function
+password strength Checker
+Total cost of items in cart
+palindrome
+factorail using recursion
+a fxn to read a file & count the frequency of each word
+validate email address
